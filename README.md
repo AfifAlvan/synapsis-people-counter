@@ -5,7 +5,8 @@ Sistem ini mendeteksi, melacak, dan menghitung jumlah orang yang **masuk dan kel
 ---
 ## 🗃️ Struktur Tabel Database
 
-<img width="503" height="428" alt="image" src="https://github.com/user-attachments/assets/f32fd5d0-02ba-435c-b029-a7686968e4d0" />
+<img width="506" height="435" alt="image" src="https://github.com/user-attachments/assets/6323adff-59d6-4f0a-8eec-061315bd0859" />
+
 <br>
 <img width="501" height="359" alt="image" src="https://github.com/user-attachments/assets/3b8ef7a3-4528-447f-bdc9-c300a0b34a91" />
 
