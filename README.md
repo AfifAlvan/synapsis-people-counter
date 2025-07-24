@@ -60,7 +60,6 @@ python scripts/view_db.py
 * NumPy
 * SQLAlchemy
 * Shapely
-* tqdm (opsional)
 * [YOLO model atau custom model] (melalui detection/detector.py)
 
 
